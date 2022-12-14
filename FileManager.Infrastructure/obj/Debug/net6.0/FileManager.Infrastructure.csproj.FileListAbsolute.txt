@@ -1,0 +1,12 @@
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/bin/Debug/net6.0/FileManager.Infrastructure.deps.json
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/bin/Debug/net6.0/FileManager.Infrastructure.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/bin/Debug/net6.0/FileManager.Infrastructure.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.AssemblyInfo.cs
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/refint/FileManager.Infrastructure.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/FileManager.Infrastructure.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Infrastructure/obj/Debug/net6.0/ref/FileManager.Infrastructure.dll

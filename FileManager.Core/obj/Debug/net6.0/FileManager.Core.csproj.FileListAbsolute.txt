@@ -1,0 +1,15 @@
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/bin/Debug/net6.0/FileManager.Core.deps.json
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/bin/Debug/net6.0/FileManager.Core.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/bin/Debug/net6.0/FileManager.Core.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/bin/Debug/net6.0/FileManager.Domain.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/bin/Debug/net6.0/FileManager.Domain.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.csproj.AssemblyReference.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.AssemblyInfoInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.AssemblyInfo.cs
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.csproj.CopyComplete
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/refint/FileManager.Core.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/FileManager.Core.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Core/obj/Debug/net6.0/ref/FileManager.Core.dll

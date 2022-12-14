@@ -1,0 +1,73 @@
+2022-12-14 11:34:32.555 +01:00 [INF] Application is starting.
+2022-12-14 11:41:53.649 +01:00 [INF] Application is starting.
+2022-12-14 11:43:58.909 +01:00 [INF] Application is starting.
+2022-12-14 11:44:23.264 +01:00 [INF] Checking for existence of folder path /Users/thebluehood/Documents
+2022-12-14 11:44:23.268 +01:00 [INF] Path created as it doesn't exist
+2022-12-14 11:44:23.268 +01:00 [INF] Path has been created successfully
+2022-12-14 11:46:10.180 +01:00 [INF] Application is starting.
+2022-12-14 11:47:45.666 +01:00 [INF] Attempting folder rename
+2022-12-14 11:48:28.011 +01:00 [INF] Checking for existence of directory /Users/thebluehood/Documents/Quomodo/Quomodo
+2022-12-14 11:49:02.267 +01:00 [INF] Checking for existence of directory /Users/thebluehood/Documents/Quomodo
+2022-12-14 11:49:02.269 +01:00 [INF] Folder Quomodo has been deleted successfully
+2022-12-14 11:50:01.214 +01:00 [INF] Checking for existence of folder path /Users/thebluehood/Documents
+2022-12-14 11:50:01.215 +01:00 [INF] Path created as it doesn't exist
+2022-12-14 11:50:01.216 +01:00 [INF] Path has been created successfully
+2022-12-14 12:06:31.050 +01:00 [INF] Application is starting.
+2022-12-14 12:16:30.229 +01:00 [INF] Application is starting.
+2022-12-14 12:16:57.288 +01:00 [INF] Application is starting.
+2022-12-14 12:19:26.486 +01:00 [INF] Application is starting.
+2022-12-14 12:21:58.700 +01:00 [INF] Application is starting.
+2022-12-14 12:22:59.650 +01:00 [INF] Application is starting.
+2022-12-14 12:23:00.132 +01:00 [FTL] Action 'FileManagerAPI.Controllers.FileController.UploadFile (FileManagerAPI)' has more than one parameter that was specified or inferred as bound from request body. Only one parameter per action may be bound from body. Inspect the following parameters, and use 'FromQueryAttribute' to specify bound from query, 'FromRouteAttribute' to specify bound from route, and 'FromBodyAttribute' for parameters to be bound from body:
+IFormFile file
+PathRequestDTO pathRequestDto
+2022-12-14 12:23:07.568 +01:00 [INF] Application is starting.
+2022-12-14 12:23:10.587 +01:00 [INF] Application is starting.
+2022-12-14 12:23:10.933 +01:00 [FTL] Action 'FileManagerAPI.Controllers.FileController.UploadFile (FileManagerAPI)' has more than one parameter that was specified or inferred as bound from request body. Only one parameter per action may be bound from body. Inspect the following parameters, and use 'FromQueryAttribute' to specify bound from query, 'FromRouteAttribute' to specify bound from route, and 'FromBodyAttribute' for parameters to be bound from body:
+IFormFile file
+PathRequestDTO pathRequestDto
+2022-12-14 12:23:17.720 +01:00 [INF] Application is starting.
+2022-12-14 12:23:18.042 +01:00 [FTL] Action 'FileManagerAPI.Controllers.FileController.UploadFile (FileManagerAPI)' has more than one parameter that was specified or inferred as bound from request body. Only one parameter per action may be bound from body. Inspect the following parameters, and use 'FromQueryAttribute' to specify bound from query, 'FromRouteAttribute' to specify bound from route, and 'FromBodyAttribute' for parameters to be bound from body:
+IFormFile file
+PathRequestDTO pathRequestDto
+2022-12-14 12:23:36.977 +01:00 [INF] Application is starting.
+2022-12-14 12:24:24.085 +01:00 [INF] Application is starting.
+2022-12-14 12:26:59.116 +01:00 [INF] Application is starting.
+2022-12-14 12:27:39.894 +01:00 [INF] Trying to retrieve folder content from 
+2022-12-14 12:27:53.692 +01:00 [INF] Trying to retrieve folder content from 
+2022-12-14 12:27:57.976 +01:00 [INF] Trying to retrieve folder content from 
+2022-12-14 12:28:32.787 +01:00 [INF] Trying to retrieve folder content from 
+2022-12-14 12:30:45.772 +01:00 [INF] Application is starting.
+2022-12-14 12:31:05.505 +01:00 [INF] Trying to retrieve folder content from /Users/thebluehood/Documents/Quomodo
+2022-12-14 12:32:29.887 +01:00 [INF] Trying to retrieve folder content from /Users/thebluehood/Documents/Quomodo
+2022-12-14 12:33:43.570 +01:00 [INF] We are verifying  existence
+2022-12-14 12:35:14.959 +01:00 [INF] We are verifying  existence
+2022-12-14 12:35:26.205 +01:00 [INF] We are verifying  existence
+2022-12-14 12:36:06.879 +01:00 [INF] We are verifying  existence
+2022-12-14 12:36:18.097 +01:00 [INF] We are verifying  existence
+2022-12-14 12:38:30.516 +01:00 [INF] Application is starting.
+2022-12-14 12:39:00.161 +01:00 [INF] File has been deleted successfully
+2022-12-14 12:39:38.500 +01:00 [INF] File has been deleted successfully
+2022-12-14 12:39:59.779 +01:00 [INF] Trying to retrieve folder content from /Users/thebluehood/Documents/Quomodo
+2022-12-14 12:41:13.199 +01:00 [INF] Verifying existence of parent folder with path /Users/thebluehood/Documents/Quomodo
+2022-12-14 12:41:13.352 +01:00 [ERR] Could not find file '/Users/thebluehood/Documents/Quomodo/Project Pod B'.
+2022-12-14 13:52:36.693 +01:00 [INF] Trying to retrieve folder content from /Users/thebluehood/Documents/Quomodo
+2022-12-14 13:52:49.061 +01:00 [INF] Trying to retrieve folder content from /Users/thebluehood/Documents/Quomodo
+2022-12-14 13:54:40.406 +01:00 [INF] Checking for existence of folder path /Users/thebluehood/Documents/Quomodo
+2022-12-14 13:54:40.409 +01:00 [INF] Path created as it doesn't exist
+2022-12-14 13:54:40.410 +01:00 [INF] Path has been created successfully
+2022-12-14 13:55:26.887 +01:00 [INF] Retreiving all files from /Users/thebluehood/Documents/Quomodo
+2022-12-14 13:57:30.138 +01:00 [INF] Application is starting.
+2022-12-14 13:58:26.211 +01:00 [INF] Verifying existence of parent folder with path /Users/thebluehood/Documents/Quomodo/App store 1.png
+2022-12-14 13:58:26.216 +01:00 [INF] Parent folder does not exist.
+2022-12-14 13:58:40.796 +01:00 [INF] Verifying existence of parent folder with path /Users/thebluehood/Documents/Quomodo
+2022-12-14 13:58:40.798 +01:00 [INF] File has been renamed successfully
+2022-12-14 14:00:04.973 +01:00 [INF] Application is starting.
+2022-12-14 14:00:58.162 +01:00 [INF] Verifying existence of parent folder with path /Users/thebluehood/Documents/Quomodo/B Sc Certificate.pdf
+2022-12-14 14:00:58.235 +01:00 [ERR] Could not find file '/Users/thebluehood/Documents/Quomodo/B Sc Certificate.pdf/B Sc Certificate.pdf'.
+2022-12-14 14:01:28.551 +01:00 [INF] Verifying existence of parent folder with path /Users/thebluehood/Documents/Quomodo/AppStore
+2022-12-14 14:01:28.580 +01:00 [ERR] Could not find file '/Users/thebluehood/Documents/Quomodo/AppStore/AppStore'.
+2022-12-14 14:02:23.200 +01:00 [INF] Application is starting.
+2022-12-14 14:02:56.312 +01:00 [INF] Retreiving all subfolders from /Users/thebluehood/Documents
+2022-12-14 14:03:08.956 +01:00 [INF] Retreiving all subfolders from /Users/thebluehood/Documents/Quomodo
+2022-12-14 14:03:27.627 +01:00 [INF] Retreiving all subfolders and files from /Users/thebluehood/Documents/Quomodo

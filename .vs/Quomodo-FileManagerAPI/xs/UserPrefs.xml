@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{6E5591B5-B819-49E3-BDC3-80A56FF8C5BA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileManager.Core/Services/FileService.cs">
+    <Files>
+      <File FileName="FileManager.Core/Interfaces/IFileService.cs" />
+      <File FileName="FileManager.Core/Interfaces/IFolderService.cs" />
+      <File FileName="FileManager.Core/Services/FileService.cs" Line="25" Column="30" />
+      <File FileName="FileManager.Core/Services/FolderService.cs" Line="214" Column="25" />
+      <File FileName="FileManagerAPI/Controllers/FileController.cs" />
+      <File FileName="FileManagerAPI/Controllers/FolderController.cs" />
+      <File FileName="FileManagerAPI/Program.cs" Line="26" Column="1" />
+      <File FileName="FileManagerAPI/Extensions/ConfigurationSetUp.cs" />
+      <File FileName="FileManagerAPI/Extensions/SwaggerConfiguration.cs" />
+      <File FileName="FileManagerAPI/appsettings.json" />
+      <File FileName="FileManagerAPI/Extensions/LogSettings.cs" />
+      <File FileName="FileManagerAPI/Extensions/RegisterServicesConfiguration.cs" />
+      <File FileName="FileManagerAPI/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quomodo-FileManagerAPI" expanded="True">
+            <Node name="FileManager.Core" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="FileService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="FileManagerAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FileManagerAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

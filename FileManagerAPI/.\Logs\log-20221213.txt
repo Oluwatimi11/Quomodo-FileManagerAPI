@@ -1,0 +1,157 @@
+2022-12-13 15:21:32.491 +01:00 [INF] Application is starting.
+2022-12-13 15:21:32.736 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 15:21:42.902 +01:00 [INF] Application is starting.
+2022-12-13 15:21:43.079 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 15:22:06.813 +01:00 [INF] Application is starting.
+2022-12-13 15:22:07.041 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 15:23:15.551 +01:00 [INF] Application is starting.
+2022-12-13 15:23:15.776 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 15:24:53.090 +01:00 [INF] Application is starting.
+2022-12-13 15:24:53.333 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:03:26.149 +01:00 [INF] Application is starting.
+2022-12-13 16:03:26.578 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:03:42.109 +01:00 [INF] Application is starting.
+2022-12-13 16:03:42.316 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:04:40.986 +01:00 [INF] Application is starting.
+2022-12-13 16:04:41.223 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:05:25.641 +01:00 [INF] Application is starting.
+2022-12-13 16:05:25.925 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:06:02.487 +01:00 [INF] Application is starting.
+2022-12-13 16:06:02.818 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:07:30.900 +01:00 [INF] Application is starting.
+2022-12-13 16:07:31.117 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:10:49.242 +01:00 [INF] Application is starting.
+2022-12-13 16:10:49.442 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:13:14.231 +01:00 [INF] Application is starting.
+2022-12-13 16:13:14.568 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:13:26.532 +01:00 [INF] Application is starting.
+2022-12-13 16:13:26.792 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:29:56.377 +01:00 [INF] Application is starting.
+2022-12-13 16:29:56.592 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 16:52:04.019 +01:00 [INF] Application is starting.
+2022-12-13 16:52:04.245 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:03:59.009 +01:00 [INF] Application is starting.
+2022-12-13 17:03:59.207 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:04:07.395 +01:00 [INF] Application is starting.
+2022-12-13 17:04:07.563 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:04:18.635 +01:00 [INF] Application is starting.
+2022-12-13 17:04:18.829 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:04:47.930 +01:00 [INF] Application is starting.
+2022-12-13 17:04:48.149 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:05:17.993 +01:00 [INF] Application is starting.
+2022-12-13 17:05:18.210 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:06:18.260 +01:00 [INF] Application is starting.
+2022-12-13 17:06:18.453 +01:00 [FTL] Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFolderService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FolderService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FolderService'.) (Error while validating the service descriptor 'ServiceType: FileManager.Core.Interfaces.IFileService Lifetime: Scoped ImplementationType: FileManager.Core.Services.FileService': Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'FileManager.Core.Services.FileService'.)
+2022-12-13 17:47:40.533 +01:00 [INF] Application is starting.
+2022-12-13 17:51:18.739 +01:00 [INF] Application is starting.
+2022-12-13 17:53:40.632 +01:00 [INF] Application is starting.
+2022-12-13 17:54:50.447 +01:00 [INF] Application is starting.
+2022-12-13 17:55:32.869 +01:00 [INF] Application is starting.
+2022-12-13 17:56:38.475 +01:00 [INF] Application is starting.
+2022-12-13 17:58:26.886 +01:00 [INF] Application is starting.
+2022-12-13 17:59:23.249 +01:00 [INF] Application is starting.
+2022-12-13 18:00:53.092 +01:00 [INF] Application is starting.
+2022-12-13 18:11:56.176 +01:00 [INF] Application is starting.
+2022-12-13 18:13:36.761 +01:00 [INF] Application is starting.
+2022-12-13 18:15:07.629 +01:00 [INF] Application is starting.
+2022-12-13 18:19:17.148 +01:00 [INF] Application is starting.
+2022-12-13 18:19:50.871 +01:00 [INF] Application is starting.
+2022-12-13 18:27:56.734 +01:00 [INF] Application is starting.
+2022-12-13 18:28:38.719 +01:00 [INF] Application is starting.
+2022-12-13 18:34:32.046 +01:00 [INF] Application is starting.
+2022-12-13 18:34:32.397 +01:00 [FTL] The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'FileManagerAPI.Controllers.FileController.UploadFile (FileManagerAPI)'
+Error: While processing template '[upload-file]', a replacement value for the token 'upload-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 2:
+For action: 'FileManagerAPI.Controllers.FileController.DeleteFile (FileManagerAPI)'
+Error: While processing template '[delete-file]', a replacement value for the token 'delete-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 3:
+For action: 'FileManagerAPI.Controllers.FileController.RenameFile (FileManagerAPI)'
+Error: While processing template '[rename-file]', a replacement value for the token 'rename-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 4:
+For action: 'FileManagerAPI.Controllers.FolderController.CreateFolderAsync (FileManagerAPI)'
+Error: While processing template '[create-folder]', a replacement value for the token 'create-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 5:
+For action: 'FileManagerAPI.Controllers.FolderController.RenameFolder (FileManagerAPI)'
+Error: While processing template '[rename-folder]', a replacement value for the token 'rename-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 6:
+For action: 'FileManagerAPI.Controllers.FolderController.DeleteFolder (FileManagerAPI)'
+Error: While processing template '[delete-folder]', a replacement value for the token 'delete-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 7:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllFilesAsync (FileManagerAPI)'
+Error: While processing template '[get-all-files]', a replacement value for the token 'get-all-files' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 8:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllSubFoldersAsync (FileManagerAPI)'
+Error: While processing template '[get-all-subFolders]', a replacement value for the token 'get-all-subFolders' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 9:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllSubFoldersAndFiles (FileManagerAPI)'
+Error: While processing template '[get-all-subFolders-and-file]', a replacement value for the token 'get-all-subFolders-and-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+2022-12-13 18:34:36.279 +01:00 [INF] Application is starting.
+2022-12-13 18:34:36.594 +01:00 [FTL] The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'FileManagerAPI.Controllers.FileController.UploadFile (FileManagerAPI)'
+Error: While processing template '[upload-file]', a replacement value for the token 'upload-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 2:
+For action: 'FileManagerAPI.Controllers.FileController.DeleteFile (FileManagerAPI)'
+Error: While processing template '[delete-file]', a replacement value for the token 'delete-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 3:
+For action: 'FileManagerAPI.Controllers.FileController.RenameFile (FileManagerAPI)'
+Error: While processing template '[rename-file]', a replacement value for the token 'rename-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 4:
+For action: 'FileManagerAPI.Controllers.FolderController.CreateFolderAsync (FileManagerAPI)'
+Error: While processing template '[create-folder]', a replacement value for the token 'create-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 5:
+For action: 'FileManagerAPI.Controllers.FolderController.RenameFolder (FileManagerAPI)'
+Error: While processing template '[rename-folder]', a replacement value for the token 'rename-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 6:
+For action: 'FileManagerAPI.Controllers.FolderController.DeleteFolder (FileManagerAPI)'
+Error: While processing template '[delete-folder]', a replacement value for the token 'delete-folder' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 7:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllFilesAsync (FileManagerAPI)'
+Error: While processing template '[get-all-files]', a replacement value for the token 'get-all-files' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 8:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllSubFoldersAsync (FileManagerAPI)'
+Error: While processing template '[get-all-subFolders]', a replacement value for the token 'get-all-subFolders' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+
+Error 9:
+For action: 'FileManagerAPI.Controllers.FolderController.GetAllSubFoldersAndFiles (FileManagerAPI)'
+Error: While processing template '[get-all-subFolders-and-file]', a replacement value for the token 'get-all-subFolders-and-file' could not be found. Available tokens: 'action, controller'. To use a '[' or ']' as a literal string in a route or within a constraint, use '[[' or ']]' instead.
+2022-12-13 18:36:31.869 +01:00 [INF] Application is starting.
+2022-12-13 18:37:37.687 +01:00 [INF] Application is starting.
+2022-12-13 18:42:14.334 +01:00 [INF] Application is starting.
+2022-12-13 20:55:48.383 +01:00 [INF] Application is starting.
+2022-12-13 21:03:00.315 +01:00 [INF] Application is starting.
+2022-12-13 21:19:49.858 +01:00 [INF] Application is starting.
+2022-12-13 21:20:23.884 +01:00 [INF] Application is starting.
+2022-12-13 21:20:56.000 +01:00 [INF] Application is starting.
+2022-12-13 21:21:15.042 +01:00 [INF] Application is starting.
+2022-12-13 21:21:43.212 +01:00 [INF] Application is starting.
+2022-12-13 21:23:24.101 +01:00 [INF] Application is starting.
+2022-12-13 21:23:45.611 +01:00 [INF] Application is starting.
+2022-12-13 21:34:50.001 +01:00 [INF] Application is starting.
+2022-12-13 21:40:08.160 +01:00 [INF] Application is starting.
+2022-12-13 21:43:08.018 +01:00 [INF] Application is starting.
+2022-12-13 21:44:04.086 +01:00 [INF] Application is starting.
+2022-12-13 21:45:01.399 +01:00 [INF] Application is starting.
+2022-12-13 21:48:01.770 +01:00 [INF] Application is starting.
+2022-12-13 21:49:13.172 +01:00 [INF] Application is starting.
+2022-12-13 21:49:55.682 +01:00 [INF] Application is starting.
+2022-12-13 21:50:47.201 +01:00 [INF] Application is starting.

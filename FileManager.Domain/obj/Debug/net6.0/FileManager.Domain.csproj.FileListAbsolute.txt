@@ -1,0 +1,12 @@
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/bin/Debug/net6.0/FileManager.Domain.deps.json
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/bin/Debug/net6.0/FileManager.Domain.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/bin/Debug/net6.0/FileManager.Domain.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.csproj.AssemblyReference.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.AssemblyInfoInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.AssemblyInfo.cs
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/refint/FileManager.Domain.dll
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/FileManager.Domain.pdb
+/Users/thebluehood/Documents/GitHub/Quomodo-FileManagerAPI/FileManager.Domain/obj/Debug/net6.0/ref/FileManager.Domain.dll
